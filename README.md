@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eazycoder26 a passionate full-stack web developer
-- 👀 I’m interested in ...  React, Node.js, Framework etc.
-- 🌱 I’m currently learning ... JavaScript for Backend Development
+- 👋 Hi, I’m @eazycoder26 persuing MCA at Techno Main Saltlake
+- 👀 I’m interested in ...  FULLSTACK DEVELOPMENT
+- 🌱 I’m currently learning ... JavaScript, NODE JS. EXPRESS AND MONGODB for Backend Development
 - 💞️ I’m looking to collaborate on ... open-source projects, freelance work, contributing to existing projects
 - 📫 How to reach me ... you can send an email to eazycoder26@gmail.com
 - 😄 Pronouns: ... he/him
